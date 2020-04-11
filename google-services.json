@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204013092367",
+    "firebase_url": "https://delvo-e22e6.firebaseio.com",
+    "project_id": "delvo-e22e6",
+    "storage_bucket": "delvo-e22e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204013092367:android:c76c0f237d968f3d772d7a",
+        "android_client_info": {
+          "package_name": "delvo.driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204013092367-4rgkuro2h2plguh2b8g1jlpqo3dbos55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAavJq3gmax_0uheBFYBk1PewcK0ssyS88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204013092367-4rgkuro2h2plguh2b8g1jlpqo3dbos55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
